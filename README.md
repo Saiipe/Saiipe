@@ -1,16 +1,19 @@
 
 <header>
-# <span align="center" style="color:#8e09db">Hello People👋🤭</span>
 
-<img height="380em" align="center" src="https://media.tenor.com/BrNtIejIcXUAAAAd/pixel-art.gif" alt="Gif Aleatorio">
+<h1 align="center"> <span style="color:#8e09db">Hello People👋🤭</span> </h1>
 
-### My Contact
+<div align="center"><img height="380em" src="https://media.tenor.com/BrNtIejIcXUAAAAd/pixel-art.gif" alt="Gif Aleatorio">
+</div>
+
+<h3 align="center"> My Contact </h3>
 
 <p align="center">
-<a style="margin: 50px" href="mailto:itauandejesus@gmail.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=8e09db&amp;color:FFF" alt="E-mail">
-</a>
-<a style="margin: 50px" href="https://www.linkedin.com/in/itauan"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=8e09db&amp;color:FFF" alt="LinkedIn"></a></p>
+<a style="margin: 33.3px" href="mailto:itauandejesus@gmail.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=8e09db&amp;color:FFF" alt="E-mail"></a>
+<a style="margin: 33.3px" href="https://discord.com/users/854166321487151145"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&amp;logo=discord&amp;logoColor=8e09db&amp;color:FFF" alt="Discord"></a>
+<a style="margin: 33.3px" href="https://www.linkedin.com/in/itauan"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=8e09db&amp;color:FFF" alt="LinkedIn"></a>
+    </p>
 
 </header>
 
@@ -18,7 +21,7 @@
 
 <!--Continued-->
 
-### <div  style="color: #ff0011"> ‼️ Sorry ‼️ </div> 
+<h3> <div  style="color: #ff0011"> ‼️ Sorry ‼️ </div> </h3> 
 I don't know how to program yet, but this "readme" will be updated as I progress, thanks. ‼️
 </article>
 
@@ -30,9 +33,15 @@ I don't know how to program yet, but this "readme" will be updated as I progress
   <br>
    - Great help by <a href="chat.openai.com/?">Chat GPT</a>
   <br>
+   - Discord Presence by <a href="https://github.com/cnrad/lanyard-profile-readme">cnrad</a>
+  <br>
 </details>
 
 ***
-###### <footer align="right"> Made by: <a href="https://github.com/saiipe" style="color: #8e09db ">Saiipe🍀</a> </footer>
+<a>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/854166321487151145)](https://discord.com/users/854166321487151145)
+
+<footer> <h6 align="right"> Made by: <a href="https://github.com/saiipe" style="color: #8e09db ">Saiipe🍀</a> </h6> </footer>
 
 
