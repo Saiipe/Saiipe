@@ -1,22 +1,16 @@
 
 <header>
-<center>
+# <span align="center" style="color:#8e09db">Hello People👋🤭</span>
 
-# <span style="color:#8e09db">Hello People👋🤭</span>
-</center>
-
-<center>
-<img height="380em" src="https://media.tenor.com/BrNtIejIcXUAAAAd/pixel-art.gif" alt="Gif Aleatorio">
+<img height="380em" align="center" src="https://media.tenor.com/BrNtIejIcXUAAAAd/pixel-art.gif" alt="Gif Aleatorio">
 
 ### My Contact
 
-<p>
+<p align="center">
 <a style="margin: 50px" href="mailto:itauandejesus@gmail.com">
 <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=8e09db&amp;color:FFF" alt="E-mail">
 </a>
 <a style="margin: 50px" href="https://www.linkedin.com/in/itauan"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=8e09db&amp;color:FFF" alt="LinkedIn"></a></p>
-
-</center>
 
 </header>
 
