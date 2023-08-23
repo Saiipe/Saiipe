@@ -1,16 +1,44 @@
-### Hi there 👋
 
-<!--
-**Saiipe/Saiipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<header>
+<center>
 
-Here are some ideas to get you started:
+# <span style="color:#8e09db">Hello People👋🤭</span>
+</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+<img height="380em" src="https://media.tenor.com/BrNtIejIcXUAAAAd/pixel-art.gif" alt="Gif Aleatorio">
+
+### My Contact
+
+<p>
+<a style="margin: 50px" href="mailto:itauandejesus@gmail.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=8e09db&amp;color:FFF" alt="E-mail">
+</a>
+<a style="margin: 50px" href="https://www.linkedin.com/in/itauan"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=8e09db&amp;color:FFF" alt="LinkedIn"></a></p>
+
+</center>
+
+</header>
+
+<article>
+
+<!--Continued-->
+
+### <div  style="color: #ff0011"> ‼️ Sorry ‼️ </div> 
+I don't know how to program yet, but this "readme" will be updated as I progress, thanks. ‼️
+</article>
+
+<details align="left">
+  <summary>Credits</summary> 
+  - Structure by <a href="https://github.com/elidianaandrade/dio-lab-open-source/tree/main">Dio-lab</a>
+  <br>
+  - Reference by <a href="https://github.com/felipeAguiarCode#--hello-world-">FelipeAguiarCode</a>
+  <br>
+   - Great help by <a href="chat.openai.com/?">Chat GPT</a>
+  <br>
+</details>
+
+***
+###### <footer align="right"> Made by: <a href="https://github.com/saiipe" style="color: #8e09db ">Saiipe🍀</a> </footer>
+
+
