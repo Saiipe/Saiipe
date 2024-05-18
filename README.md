@@ -47,15 +47,9 @@ I don't know how to program yet, but this "readme" will be updated as I progress
   <br>
    - Great help by <a href="chat.openai.com/?">Chat GPT</a>
   <br>
-   - Discord Presence by <a href="https://github.com/cnrad/lanyard-profile-readme">cnrad</a>
-  <br>
 </details>
 
 ***
-<a>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/854166321487151145)](https://discord.com/users/854166321487151145)
-
 <footer> <h6 align="right"> Made by: <a href="https://github.com/saiipe" style="color: #8e09db ">Saiipe🍀</a> </h6> </footer>
 
 
