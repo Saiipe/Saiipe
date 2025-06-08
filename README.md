@@ -16,6 +16,10 @@
   <a href="https://www.linkedin.com/in/itauan">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&color=5e09db">
   </a>
+   <br>
+  <a href="https://www.instagram.com/tauanpjll/">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-020114?style=for-the-badge&color=5e09db">
+  </a>
 </p>
 
 </header>
@@ -29,15 +33,6 @@
 ![PYTHON](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
 ![postgresql](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)
 
-
-
-<h3 align="center"> GitHub Stats:</h3>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Saiipe&theme=midnight-purple&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-</div>
 
 <details align="left">
   <summary>Credits</summary> 
